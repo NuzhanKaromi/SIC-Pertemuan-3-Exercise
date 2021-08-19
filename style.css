@@ -1,0 +1,55 @@
+nav {
+   display: flex;
+   justify-content: space-around;
+   padding: 20px 0;
+   color: aliceblue;
+   height: 50px;
+   align-items: center;
+ }
+
+nav ul {
+   display: flex;
+   list-style: none;
+   width: 40%;
+   justify-content: space-between;
+ }
+
+nav ul li a {
+   color: black;
+   text-decoration: none;
+   font-size: 15px;
+   font-family: sans-serif;
+
+ }
+
+ .view {
+  padding-left: 70px;
+ }
+
+.foto {
+   padding-left: 40px;
+}
+
+ .foto img {
+   width: 250px;
+   border-radius: 50%;
+   height: 250px;
+   margin-top: 40px;
+   box-shadow: 5px 5px 15px 5px #000000
+ }
+
+h4 {
+  font-size: 20px;
+  font-family: fantasy;
+  letter-spacing: 3px;
+  padding-top:;
+ }
+
+h5 {
+  font-size: 15px;
+  font-family: sans-serif;
+ }
+
+ .icons {
+  font-size: 20px;
+ }
